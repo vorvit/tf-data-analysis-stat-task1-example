@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+import math
 
 chat_id = 1056349463 # Ваш chat ID, не меняйте название переменной
 
